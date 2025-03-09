@@ -6,7 +6,7 @@
                 <div class="container flex-lg-row flex-nowrap align-items-center">
                     <div class="navbar-brand w-100">
                         <a href="index.html">
-                            <img src="assets/img/logo-dark.png" 
+                            <img src="assets/img/logo-dark.png"
                                 alt="" />
                         </a>
                     </div>
@@ -28,7 +28,7 @@
                                                     <a class="dropdown-item" href="demo1.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi1.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 1</span>
                                                     </a>
@@ -37,7 +37,7 @@
                                                     <a class="dropdown-item" href="demo2.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi2.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 2</span>
                                                     </a>
@@ -46,7 +46,7 @@
                                                     <a class="dropdown-item" href="demo3.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi3.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 3</span>
                                                     </a>
@@ -55,7 +55,7 @@
                                                     <a class="dropdown-item" href="demo4.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi4.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 4</span>
                                                     </a>
@@ -64,7 +64,7 @@
                                                     <a class="dropdown-item" href="demo5.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi5.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 5</span>
                                                     </a>
@@ -73,7 +73,7 @@
                                                     <a class="dropdown-item" href="demo6.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi6.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 6</span>
                                                     </a>
@@ -82,7 +82,7 @@
                                                     <a class="dropdown-item" href="demo7.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi7.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 7</span>
                                                     </a>
@@ -91,7 +91,7 @@
                                                     <a class="dropdown-item" href="demo8.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi8.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 8</span>
                                                     </a>
@@ -100,7 +100,7 @@
                                                     <a class="dropdown-item" href="demo9.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi9.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 9</span>
                                                     </a>
@@ -109,7 +109,7 @@
                                                     <a class="dropdown-item" href="demo10.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi10.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 10</span>
                                                     </a>
@@ -118,7 +118,7 @@
                                                     <a class="dropdown-item" href="demo11.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi11.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 11</span>
                                                     </a>
@@ -127,7 +127,7 @@
                                                     <a class="dropdown-item" href="demo12.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi12.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 12</span>
                                                     </a>
@@ -136,7 +136,7 @@
                                                     <a class="dropdown-item" href="demo13.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi13.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 13</span>
                                                     </a>
@@ -145,7 +145,7 @@
                                                     <a class="dropdown-item" href="demo14.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi14.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 14</span>
                                                     </a>
@@ -154,7 +154,7 @@
                                                     <a class="dropdown-item" href="demo15.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi15.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 15</span>
                                                     </a>
@@ -163,7 +163,7 @@
                                                     <a class="dropdown-item" href="demo16.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi16.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 16</span>
                                                     </a>
@@ -172,7 +172,7 @@
                                                     <a class="dropdown-item" href="demo17.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi17.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 17</span>
                                                     </a>
@@ -181,7 +181,7 @@
                                                     <a class="dropdown-item" href="demo18.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi18.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 18</span>
                                                     </a>
@@ -190,7 +190,7 @@
                                                     <a class="dropdown-item" href="demo19.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi19.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 19</span>
                                                     </a>
@@ -199,7 +199,7 @@
                                                     <a class="dropdown-item" href="demo20.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi20.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 20</span>
                                                     </a>
@@ -208,7 +208,7 @@
                                                     <a class="dropdown-item" href="demo21.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi21.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 21</span>
                                                     </a>
@@ -217,7 +217,7 @@
                                                     <a class="dropdown-item" href="demo22.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi22.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 22</span>
                                                     </a>
@@ -226,7 +226,7 @@
                                                     <a class="dropdown-item" href="demo23.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi23.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 23</span>
                                                     </a>
@@ -235,7 +235,7 @@
                                                     <a class="dropdown-item" href="demo24.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi24.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 24</span>
                                                     </a>
@@ -244,7 +244,7 @@
                                                     <a class="dropdown-item" href="demo25.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi25.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 25</span>
                                                     </a>
@@ -253,7 +253,7 @@
                                                     <a class="dropdown-item" href="demo26.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi26.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 26</span>
                                                     </a>
@@ -262,7 +262,7 @@
                                                     <a class="dropdown-item" href="demo27.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi27.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 27</span>
                                                     </a>
@@ -271,7 +271,7 @@
                                                     <a class="dropdown-item" href="demo28.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi28.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 28</span>
                                                     </a>
@@ -280,7 +280,7 @@
                                                     <a class="dropdown-item" href="demo29.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi29.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 29</span>
                                                     </a>
@@ -289,7 +289,7 @@
                                                     <a class="dropdown-item" href="demo30.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi30.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 30</span>
                                                     </a>
@@ -298,7 +298,7 @@
                                                     <a class="dropdown-item" href="demo31.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi31.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 31</span>
                                                     </a>
@@ -307,7 +307,7 @@
                                                     <a class="dropdown-item" href="demo32.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi32.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 32</span>
                                                     </a>
@@ -316,7 +316,7 @@
                                                     <a class="dropdown-item" href="demo33.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi33.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 33</span>
                                                     </a>
@@ -325,7 +325,7 @@
                                                     <a class="dropdown-item" href="demo34.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi34.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 34</span>
                                                     </a>
@@ -334,7 +334,7 @@
                                                     <a class="dropdown-item" href="demo35.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi35.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 35</span>
                                                     </a>
@@ -343,7 +343,7 @@
                                                     <a class="dropdown-item" href="demo36.html">
                                                         <figure class="rounded lift d-none d-lg-block"><img
                                                                 src="assets/img/demos/mi36.jpg"
-                                                                
+
                                                                 alt=""></figure>
                                                         <span class="d-lg-none">Demo 36</span>
                                                     </a>
@@ -668,7 +668,7 @@
                                                 <div class="col-lg-4">
                                                     <h6 class="dropdown-header">Usage</h6>
                                                     <ul class="list-unstyled cc-2 pb-lg-1">
-                                                        <li><a class="dropdown-item" href="docs/index.html">Get
+                                                        <li><a class="dropdown-item" href="docs/">Get
                                                                 Started</a></li>
                                                         <li><a class="dropdown-item"
                                                                 href="docs/forms.html">Forms</a></li>

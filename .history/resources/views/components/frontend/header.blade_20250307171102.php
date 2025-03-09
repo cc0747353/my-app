@@ -443,7 +443,7 @@
                       <div class="col-lg-4">
                         <h6 class="dropdown-header">Usage</h6>
                         <ul class="list-unstyled cc-2 pb-lg-1">
-                          <li><a class="dropdown-item" href="docs/index.html">Get Started</a></li>
+                          <li><a class="dropdown-item" href="docs/">Get Started</a></li>
                           <li><a class="dropdown-item" href="docs/forms.html">Forms</a></li>
                           <li><a class="dropdown-item" href="docs/faq.html">FAQ</a></li>
                           <li><a class="dropdown-item" href="docs/changelog.html">Changelog</a></li>

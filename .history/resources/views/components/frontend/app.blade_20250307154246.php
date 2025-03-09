@@ -23,7 +23,7 @@
             <nav class="navbar navbar-expand-lg center-nav position-absolute navbar-light caret-none" style="background-color: rgb(198, 193, 194);">
                 <div class="container flex-lg-row flex-nowrap align-items-center">
                     <div class="navbar-brand w-100">
-                        <a href="/index.html">
+                        <a href="/">
                             <img src="/assets/img/logo-dark.png"
                                 alt="" />
                         </a>
@@ -36,7 +36,7 @@
                         </div>
                         <div class="offcanvas-body ms-lg-auto d-flex flex-column h-100">
                             <ul class="navbar-nav">
-                                <li class="nav-item"><a class="nav-link" href="/index.html">Home</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
 
 
 
@@ -690,7 +690,7 @@
                                                 <div class="col-lg-4">
                                                     <h6 class="dropdown-header">Usage</h6>
                                                     <ul class="list-unstyled cc-2 pb-lg-1">
-                                                        <li><a class="dropdown-item" href="/docs/index.html">Get
+                                                        <li><a class="dropdown-item" href="/docs/">Get
                                                                 Started</a></li>
                                                         <li><a class="dropdown-item"
                                                                 href="/docs/forms.html">Forms</a></li>

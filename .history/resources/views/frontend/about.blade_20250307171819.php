@@ -445,7 +445,7 @@
                               <div class="col-lg-4">
                                 <h6 class="dropdown-header">Usage</h6>
                                 <ul class="list-unstyled cc-2 pb-lg-1">
-                                  <li><a class="dropdown-item" href="docs/index.html">Get Started</a></li>
+                                  <li><a class="dropdown-item" href="docs/">Get Started</a></li>
                                   <li><a class="dropdown-item" href="docs/forms.html">Forms</a></li>
                                   <li><a class="dropdown-item" href="docs/faq.html">FAQ</a></li>
                                   <li><a class="dropdown-item" href="docs/changelog.html">Changelog</a></li>
@@ -712,7 +712,7 @@
                 <div class="col-md-5 col-lg-5 col-xl-4 offset-xl-1 d-none d-md-flex position-relative align-self-end">
                     <div class="shape rounded-circle bg-pale-primary rellax w-21 h-21 d-md-none d-lg-block"
                         data-rellax-speed="1" style="top: 7rem; left: 1rem"></div>
-                    <figure><img src="assets/img/photos/co1.png" 
+                    <figure><img src="assets/img/photos/co1.png"
                             alt=""></figure>
                 </div>
                 <!--/column -->

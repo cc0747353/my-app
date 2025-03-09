@@ -2,7 +2,7 @@
     <nav class="navbar navbar-expand-lg center-nav navbar-light" style="background-color: #dddbdd;">
       <div class="container flex-lg-row flex-nowrap align-items-center">
         <div class="navbar-brand w-100">
-          <a href="./index.html">
+          <a href="/">
             <img src="/assets/img/logo-dark.png" alt="" />
           </a>
         </div>
@@ -65,7 +65,7 @@
               </ul>
             </li>
             <li class="nav-item d-none d-md-block">
-              <a href="./contact.html" class="btn btn-sm btn-primary rounded-pill">Contact</a>
+              <a href="/contact.html" class="btn btn-sm btn-primary rounded-pill">Contact</a>
             </li>
             <li class="nav-item d-lg-none">
               <button class="hamburger offcanvas-nav-btn"><span></span></button>

@@ -2,8 +2,8 @@
     <nav class="navbar navbar-expand-lg center-nav transparent navbar-light">
       <div class="container flex-lg-row flex-nowrap align-items-center">
         <div class="navbar-brand w-100">
-          <a href="./index.html">
-            <img src="./assets/img/logo.png" srcset="./assets/img/logo@2x.png 2x" alt="" />
+          <a href="/">
+            <img src="/assets/img/logo.png" srcset="/assets/img/logo@2x.png 2x" alt="" />
           </a>
         </div>
         <div class="navbar-collapse offcanvas offcanvas-nav offcanvas-start">
@@ -65,7 +65,7 @@
               </ul>
             </li>
             <li class="nav-item d-none d-md-block">
-              <a href="./contact.html" class="btn btn-sm btn-primary rounded-pill">Contact</a>
+              <a href="/contact.html" class="btn btn-sm btn-primary rounded-pill">Contact</a>
             </li>
             <li class="nav-item d-lg-none">
               <button class="hamburger offcanvas-nav-btn"><span></span></button>
